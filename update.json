@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "0.26.3",
-  "apk": "app/nut-tv-v73.apk",
-  "notes": "坚果 TV v73:背景大图质量(竖版滤除/渐变减淡/文字投影/家族剧照兜底)"
+  "versionCode": 75,
+  "versionName": "0.26.5",
+  "apk": "app/nut-tv-v75.apk",
+  "notes": "坚果 TV v75:电影正片单卡+集号解析防年份+切回入口季修复"
 }
