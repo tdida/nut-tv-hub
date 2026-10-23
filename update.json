@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "versionName": "0.26.1",
-  "apk": "app/nut-tv-v71.apk",
-  "notes": "坚果 TV v71:番外季封面兜底(海报解析+垫图链)"
+  "versionCode": 73,
+  "versionName": "0.26.3",
+  "apk": "app/nut-tv-v73.apk",
+  "notes": "坚果 TV v73:背景大图质量(竖版滤除/渐变减淡/文字投影/家族剧照兜底)"
 }
