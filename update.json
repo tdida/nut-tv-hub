@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "0.25.2",
-  "apk": "app/nut-tv-v62.apk",
-  "notes": "坚果 TV v62:状态行精简、缺失卡角标变暗+点击提示、纯替补季焦点修复"
+  "versionCode": 63,
+  "versionName": "0.25.3",
+  "apk": "app/nut-tv-v63.apk",
+  "notes": "坚果 TV v63:季chips焦点与定位修复(滚动跟随选中项)"
 }
