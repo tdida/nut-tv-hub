@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "0.24.1",
-  "apk": "app/nut-tv-v55.apk",
-  "notes": "坚果 TV v55:自动更新链完善(静默检查/自动下载/自动安装)"
+  "versionCode": 60,
+  "versionName": "0.25.0",
+  "apk": "app/nut-tv-v60.apk",
+  "notes": "坚果 TV v60:季体系修复与豆瓣纯数据口径,每集卡源渠道角标"
 }
