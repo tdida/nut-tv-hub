@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "0.25.4",
-  "apk": "app/nut-tv-v64.apk",
-  "notes": "坚果 TV v64:详情页焦点链系统修复+集卡封面垫底"
+  "versionCode": 65,
+  "versionName": "0.25.5",
+  "apk": "app/nut-tv-v65.apk",
+  "notes": "坚果 TV v65:详情页排版间隙打磨"
 }
