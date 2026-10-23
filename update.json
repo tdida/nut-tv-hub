@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "0.27.1",
-  "apk": "app/nut-tv-v77.apk",
-  "notes": "坚果 TV v77:4K60播放修复(默认super档流畅保底+诊断日志)"
+  "versionCode": 78,
+  "versionName": "0.27.2",
+  "apk": "app/nut-tv-v78.apk",
+  "notes": "坚果 TV v78:电影正片单卡完善"
 }
