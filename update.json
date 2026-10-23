@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "0.25.5",
-  "apk": "app/nut-tv-v65.apk",
-  "notes": "坚果 TV v65:详情页排版间隙打磨"
+  "versionCode": 68,
+  "versionName": "0.25.8",
+  "apk": "app/nut-tv-v68.apk",
+  "notes": "坚果 TV v68:季集号双形态平移修复(沧元图3全缺失根因)"
 }
