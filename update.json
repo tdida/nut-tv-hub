@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "0.25.8",
-  "apk": "app/nut-tv-v68.apk",
-  "notes": "坚果 TV v68:季集号双形态平移修复(沧元图3全缺失根因)"
+  "versionCode": 70,
+  "versionName": "0.26.0",
+  "apk": "app/nut-tv-v70.apk",
+  "notes": "坚果 TV v70:季集号对齐用目录数字段真相源,第三季错位修复"
 }
