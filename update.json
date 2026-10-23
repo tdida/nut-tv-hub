@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "0.27.2",
-  "apk": "app/nut-tv-v78.apk",
-  "notes": "坚果 TV v78:电影正片单卡完善"
+  "versionCode": 80,
+  "versionName": "0.28.1",
+  "apk": "app/nut-tv-v80.apk",
+  "notes": "坚果 TV v80:拼音搜索(输入DPCQ直达斗破苍穹)+电影播放源链"
 }
