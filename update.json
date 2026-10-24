@@ -1,6 +1,6 @@
 {
-  "versionCode": 90,
-  "versionName": "0.30.0",
-  "apk": "app/nut-tv-v90.apk",
-  "notes": "坚果 TV v90:更新机制对齐aerial(3h节流/失败退避/version.txt探测/包名校验/权限引导/发版自动purge)"
+  "versionCode": 92,
+  "versionName": "0.30.2",
+  "apk": "app/nut-tv-v92.apk",
+  "notes": "坚果 TV v92:更新链遥测+gcore镜像前置"
 }
