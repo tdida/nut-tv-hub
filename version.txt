@@ -1,1 +1,1 @@
-95 0.30.5 app/nut-tv-v95.apk
+97 0.30.7 app/nut-tv-v97.apk
