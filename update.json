@@ -1,6 +1,6 @@
 {
-  "versionCode": 94,
-  "versionName": "0.30.4",
-  "apk": "app/nut-tv-v94.apk",
-  "notes": "自更新链修复:version.txt多镜像取最大值判定+raw直连前置;解析单飞防21005风暴"
+  "versionCode": 95,
+  "versionName": "0.30.5",
+  "apk": "app/nut-tv-v95.apk",
+  "notes": "临时屏蔽网盘源:豆瓣入口选片全量走直链(360>量子>非凡),网盘死链期间保播放可用"
 }
