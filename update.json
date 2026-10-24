@@ -1,6 +1,6 @@
 {
-  "versionCode": 92,
-  "versionName": "0.30.2",
-  "apk": "app/nut-tv-v92.apk",
-  "notes": "坚果 TV v92:更新链遥测+gcore镜像前置"
+  "versionCode": 94,
+  "versionName": "0.30.4",
+  "apk": "app/nut-tv-v94.apk",
+  "notes": "自更新链修复:version.txt多镜像取最大值判定+raw直连前置;解析单飞防21005风暴"
 }
