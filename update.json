@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "0.28.2",
-  "apk": "app/nut-tv-v81.apk",
-  "notes": "坚果 TV v81:选集只显示已播集"
+  "versionCode": 82,
+  "versionName": "0.28.3",
+  "apk": "app/nut-tv-v82.apk",
+  "notes": "坚果 TV v82:40部矩阵验证批(21005假活分享退避+换源/电影替补集号/S01E与汉字尾随集号解析/选集只显示已播)"
 }
