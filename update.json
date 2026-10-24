@@ -1,6 +1,6 @@
 {
-  "versionCode": 85,
-  "versionName": "0.29.2",
-  "apk": "app/nut-tv-v85.apk",
-  "notes": "坚果 TV v85:远程更新链验证批(UA修复+jsdelivr三姊妹镜像)"
+  "versionCode": 87,
+  "versionName": "0.29.4",
+  "apk": "app/nut-tv-v87.apk",
+  "notes": "坚果 TV v87:远程更新链镜像日志+专属超时"
 }
