@@ -1,6 +1,14 @@
 {
-  "versionCode": 98,
-  "versionName": "0.30.8",
-  "apk": "app/nut-tv-v98.apk",
-  "notes": "搜索页重构：文字速选与影片结果分区，优化遥控焦点、详情返回与失败重试；修复首页电视剧/综艺/动漫/电影滚动加载及分类缓存混用；夸克默认优先最优画质（4K/2K）"
+  "schemaVersion": 2,
+  "versionCode": 99,
+  "versionName": "0.30.9",
+  "packageName": "dev.peach.tv",
+  "apk": "app/nut-tv-v99.apk",
+  "sizeBytes": 3042608,
+  "sha256": "ca492640004892a06001b018c661a93c3a3c90cd06b308f0414a95c4fa150df2",
+  "minSdk": 21,
+  "notes": "优化更新及时性与后台下载，新增官方备用源及安装包校验；退出登录增加二次确认。",
+  "publishedAt": "2026-10-24T17:37:27.333860+00:00",
+  "sourceCommit": "689e39cd49fd89c3098584ee9c68edb5c1c3e387",
+  "sourceDirty": false
 }
