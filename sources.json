@@ -9,9 +9,9 @@
   "jinying": "https://jinyingzy.com/api.php/provide/vod",
   "priority": [
     "wogg",
-    "lzi",
     "hongniu",
     "jinying",
-    "zy360"
+    "zy360",
+    "lzi"
   ]
 }
