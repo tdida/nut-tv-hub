@@ -2,16 +2,19 @@
   "zy360": "https://360zy.com/api.php/provide/vod",
   "lzi": "https://cj.lziapi.com/api.php/provide/vod",
   "wogg": [
+    "http://www.wogg.net/",
     "http://woggpan.888484.xyz/",
-    "http://edgeong.wogg.333232.xyz/"
+    "http://edgeong.wogg.333232.xyz/",
+    "http://woggpan.333232.xyz/",
+    "http://www.wogg.live/"
   ],
   "hongniu": "https://www.hongniuzy2.com/api.php/provide/vod",
   "jinying": "https://jinyingzy.com/api.php/provide/vod",
   "priority": [
     "wogg",
+    "lzi",
     "hongniu",
     "jinying",
-    "zy360",
-    "lzi"
+    "zy360"
   ]
 }
