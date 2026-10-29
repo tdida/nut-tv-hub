@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
-  "versionCode": 99,
-  "versionName": "0.30.9",
+  "versionCode": 104,
+  "versionName": "0.30.10",
   "packageName": "dev.peach.tv",
-  "apk": "app/nut-tv-v99.apk",
-  "sizeBytes": 3042608,
-  "sha256": "ca492640004892a06001b018c661a93c3a3c90cd06b308f0414a95c4fa150df2",
+  "apk": "app/nut-tv-v104.apk",
+  "sizeBytes": 3420022,
+  "sha256": "43c393dd9610df6fd5cdcd60deeb5780f865f8d437b3b5b66900a36207acd289",
   "minSdk": 21,
-  "notes": "优化更新及时性与后台下载，新增官方备用源及安装包校验；退出登录增加二次确认。",
-  "publishedAt": "2026-10-24T17:37:27.333860+00:00",
-  "sourceCommit": "689e39cd49fd89c3098584ee9c68edb5c1c3e387",
+  "notes": "续播体验修复：网盘失效自动换直链源，选集入口即时可用；快进快退长按加速、步长按片长分档；画质/音轨/字幕/连播按剧记忆。",
+  "publishedAt": "2026-10-29T23:53:23.761763+00:00",
+  "sourceCommit": "ffa7adf0aaa43f78a44e184398336c5e1d1fcb01",
   "sourceDirty": false
 }
