@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
-  "versionCode": 104,
-  "versionName": "0.30.10",
+  "versionCode": 105,
+  "versionName": "0.30.11",
   "packageName": "dev.peach.tv",
-  "apk": "app/nut-tv-v104.apk",
-  "sizeBytes": 3420022,
-  "sha256": "43c393dd9610df6fd5cdcd60deeb5780f865f8d437b3b5b66900a36207acd289",
+  "apk": "app/nut-tv-v105.apk",
+  "sizeBytes": 3420034,
+  "sha256": "7b201160a6b8c4212ffcb0182ca59ab972b9a54f1e2fb20604bad0f8b926baaa",
   "minSdk": 21,
-  "notes": "续播体验修复：网盘失效自动换直链源，选集入口即时可用；快进快退长按加速、步长按片长分档；画质/音轨/字幕/连播按剧记忆。",
-  "publishedAt": "2026-10-29T23:53:23.761763+00:00",
-  "sourceCommit": "ffa7adf0aaa43f78a44e184398336c5e1d1fcb01",
+  "notes": "播放器交互与焦点体验升级：按上键直达选集；卡片焦点描边/底色/上浮全部平滑过渡；选中状态全系统统一；长列表滚动更跟手；清理冗余提示文案。",
+  "publishedAt": "2026-10-30T02:23:13.559505+00:00",
+  "sourceCommit": "b6c77958036a038c3e3e922f174c5997253a4672",
   "sourceDirty": false
 }
